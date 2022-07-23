@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "file-extension": "^4.0.5",
-    "file-type": "^14.3.0",
+    "file-type": "^16.5.4",
     "image-type": "^4.1.0",
     "is-gzip": "^2.0.0",
     "is-image": "^3.0.0",
